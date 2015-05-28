@@ -1,0 +1,57 @@
+Waaaaaazaaaaaa
+27/01/2015 18:20:55 -> Incorrect syntax near the keyword 'where'.
+03/02/2015 14:38:18 -> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'limit 1) or status='Libre'  order by filaCSV)' at line 1
+03/02/2015 14:38:22 -> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'limit 1) or status='Libre'  order by filaCSV)' at line 1
+03/02/2015 14:38:25 -> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'limit 1) or status='Libre'  order by filaCSV)' at line 1
+03/02/2015 14:38:29 -> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'limit 1) or status='Libre'  order by filaCSV)' at line 1
+03/02/2015 14:38:38 -> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'limit 1) or status='Libre'  order by filaCSV)' at line 1
+03/02/2015 14:38:41 -> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'limit 1) or status='Libre'  order by filaCSV)' at line 1
+03/02/2015 14:38:44 -> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'limit 1) or status='Libre'  order by filaCSV)' at line 1
+03/02/2015 14:38:48 -> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'limit 1) or status='Libre'  order by filaCSV)' at line 1
+03/02/2015 14:38:51 -> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'limit 1) or status='Libre'  order by filaCSV)' at line 1
+03/02/2015 14:39:04 -> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'limit 1) or status='Libre'  order by filaCSV)' at line 1
+03/02/2015 14:39:07 -> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'limit 1) or status='Libre'  order by filaCSV)' at line 1
+03/02/2015 14:39:11 -> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'limit 1) or status='Libre'  order by filaCSV)' at line 1
+03/02/2015 14:39:14 -> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'limit 1) or status='Libre'  order by filaCSV)' at line 1
+03/02/2015 14:39:19 -> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'limit 1) or status='Libre'  order by filaCSV)' at line 1
+03/02/2015 14:39:22 -> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'limit 1) or status='Libre'  order by filaCSV)' at line 1
+03/02/2015 14:39:26 -> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'limit 1) or status='Libre'  order by filaCSV)' at line 1
+03/02/2015 14:39:29 -> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'limit 1) or status='Libre'  order by filaCSV)' at line 1
+03/02/2015 14:39:32 -> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'limit 1) or status='Libre'  order by filaCSV)' at line 1
+03/02/2015 14:39:36 -> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'limit 1) or status='Libre'  order by filaCSV)' at line 1
+03/02/2015 14:40:13 -> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'limit 1) or status='Libre'  order by filaCSV)' at line 1
+03/02/2015 14:40:16 -> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'limit 1) or status='Libre'  order by filaCSV)' at line 1
+03/02/2015 14:40:19 -> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'limit 1) or status='Libre'  order by filaCSV)' at line 1
+03/02/2015 14:40:24 -> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'limit 1) or status='Libre'  order by filaCSV)' at line 1
+03/02/2015 14:40:27 -> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'limit 1) or status='Libre'  order by filaCSV)' at line 1
+03/02/2015 14:40:36 -> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'limit 1) or status='Libre'  order by filaCSV)' at line 1
+03/02/2015 14:40:40 -> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'limit 1) or status='Libre'  order by filaCSV)' at line 1
+03/02/2015 14:40:44 -> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'limit 1) or status='Libre'  order by filaCSV)' at line 1
+03/02/2015 14:40:47 -> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'limit 1) or status='Libre'  order by filaCSV)' at line 1
+03/02/2015 14:40:50 -> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'limit 1) or status='Libre'  order by filaCSV)' at line 1
+03/02/2015 14:40:53 -> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'limit 1) or status='Libre'  order by filaCSV)' at line 1
+03/02/2015 14:40:57 -> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'limit 1) or status='Libre'  order by filaCSV)' at line 1
+03/02/2015 14:41:02 -> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'limit 1) or status='Libre'  order by filaCSV)' at line 1
+03/02/2015 14:41:06 -> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'limit 1) or status='Libre'  order by filaCSV)' at line 1
+03/02/2015 14:41:09 -> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'limit 1) or status='Libre'  order by filaCSV)' at line 1
+03/02/2015 14:41:12 -> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'limit 1) or status='Libre'  order by filaCSV)' at line 1
+03/02/2015 14:44:16 -> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'limit 1) or status='Libre'  order by filaCSV)' at line 1
+03/02/2015 14:44:20 -> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'limit 1) or status='Libre'  order by filaCSV)' at line 1
+03/02/2015 14:44:23 -> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'limit 1) or status='Libre'  order by filaCSV)' at line 1
+03/02/2015 14:44:26 -> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'limit 1) or status='Libre'  order by filaCSV)' at line 1
+03/02/2015 14:44:29 -> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'limit 1) or status='Libre'  order by filaCSV)' at line 1
+03/02/2015 14:44:41 -> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'limit 1) or status='Libre'  order by filaCSV)' at line 1
+03/02/2015 14:46:56 -> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 1) or status='Libre'  order by filaCSV)' at line 1
+03/02/2015 14:47:00 -> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 1) or status='Libre'  order by filaCSV)' at line 1
+03/02/2015 14:49:02 -> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 1) or status='Libre'  order by filaCSV)' at line 1
+03/02/2015 14:49:05 -> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 1) or status='Libre'  order by filaCSV)' at line 1
+03/02/2015 14:51:34 -> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 1) or status='Libre'  order by filaCSV)' at line 1
+03/02/2015 14:51:43 -> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 1) or status='Libre'  order by filaCSV)' at line 1
+03/02/2015 14:52:36 -> You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 1) or status='Libre'  order by filaCSV)' at line 1
+03/02/2015 14:55:20 -> This version of MySQL doesn't yet support 'LIMIT & IN/ALL/ANY/SOME subquery'
+03/02/2015 14:55:23 -> This version of MySQL doesn't yet support 'LIMIT & IN/ALL/ANY/SOME subquery'
+03/02/2015 15:43:18 -> You can't specify target table 'veracruz' for update in FROM clause
+03/02/2015 15:43:30 -> You can't specify target table 'veracruz' for update in FROM clause
+03/02/2015 15:45:40 -> You can't specify target table 'veracruz' for update in FROM clause
+03/02/2015 15:46:14 -> You can't specify target table 'u' for update in FROM clause
+03/02/2015 15:46:17 -> You can't specify target table 'u' for update in FROM clause

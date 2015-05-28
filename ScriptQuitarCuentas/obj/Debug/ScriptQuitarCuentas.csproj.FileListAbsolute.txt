@@ -1,0 +1,7 @@
+C:\Users\Oscar\documents\visual studio 2013\Projects\RobotCuentasOffice\ScriptQuitarCuentas\bin\Debug\ScriptQuitarCuentas.exe.config
+C:\Users\Oscar\documents\visual studio 2013\Projects\RobotCuentasOffice\ScriptQuitarCuentas\bin\Debug\ScriptQuitarCuentas.exe
+C:\Users\Oscar\documents\visual studio 2013\Projects\RobotCuentasOffice\ScriptQuitarCuentas\bin\Debug\ScriptQuitarCuentas.pdb
+C:\Users\Oscar\documents\visual studio 2013\Projects\RobotCuentasOffice\ScriptQuitarCuentas\obj\Debug\ScriptQuitarCuentas.Properties.Resources.resources
+C:\Users\Oscar\documents\visual studio 2013\Projects\RobotCuentasOffice\ScriptQuitarCuentas\obj\Debug\ScriptQuitarCuentas.csproj.GenerateResource.Cache
+C:\Users\Oscar\documents\visual studio 2013\Projects\RobotCuentasOffice\ScriptQuitarCuentas\obj\Debug\ScriptQuitarCuentas.exe
+C:\Users\Oscar\documents\visual studio 2013\Projects\RobotCuentasOffice\ScriptQuitarCuentas\obj\Debug\ScriptQuitarCuentas.pdb

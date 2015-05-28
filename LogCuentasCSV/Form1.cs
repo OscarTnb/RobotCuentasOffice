@@ -24,12 +24,14 @@ namespace LogCuentasCSV
 
         public Form1()
         {
+            
             InitializeComponent();
+            /*
             //conn.tiempoDiferencia();
             //conn.migrarBD();
             //actualizarCuetas();
             int cantCuentas = conn.getCountRegistros();
-            conn.faltan();
+            //conn.faltan();
             //CargaCuentas();
             if (cantCuentas != -1)
             {
@@ -50,6 +52,77 @@ namespace LogCuentasCSV
                 lblNotificaciones.Text = "No se pudo conectar con la BD";
                 this.Text = "No se pudo conectar con la BD";
                 DesctivaControles();
+            }*/
+            generarCuentas();
+        }
+
+        bool generarCuentas()
+        {
+            string rutaArchivo = "C:\\CuentasO365\\CuentasJunio.csv";
+            var archivoExiste = System.IO.File.Exists(rutaArchivo);
+            if (!archivoExiste)
+            {
+                return false;
+            }
+            else
+            {
+                try
+                {
+                    using (CsvReader reader = new CsvReader(rutaArchivo, Encoding.Default))
+                    {
+                        while (reader.ReadNextRecord())
+                            listaCuentas.Add(reader.Fields);
+                    }
+                    var file = "C:\\CuentasO365\\LogBD.csv";
+                    if (!File.Exists(file))
+                    {
+                        var stream = File.CreateText(file);
+                        stream.Close();
+                    }
+
+                    int cant = listaCuentas.Count;
+                    Console.WriteLine(cant);
+                    bool[] logRandom = new bool[cant];
+                    Random rand = new Random();
+                    int posDom = 0;
+                    string[] dominios = { "df.conalep.edu.mx", "qroo.conalep.edu.mx", "qro.conalep.edu.mx", "pue.conalep.edu.mx", "hgo.conalep.edu.mx", "ver.conalep.edu.mx", "nl.conalep.edu.mx", "jal.conalep.edu.mx", "ags.conalep.edu.mx", "bachilleres.edu.mx" ,"Error"};
+                    int[] totales = {10053, 11330, 10310, 9063, 8118, 7023, 5983, 8946, 6602, 7572, 100000};
+                    for (int i = 0; i < 85000; i++)
+                    {
+                        //Asignar Dominio
+                        if (totales[posDom] <= 0) posDom++;
+                        totales[posDom]--;
+
+                        //Asignar Cuenta
+                        int pos = rand.Next(cant);
+                        while (logRandom[pos]) pos = rand.Next(cant);
+                        logRandom[pos] = true;
+                        
+                        //Escribir cuenta
+                        var cuenta = listaCuentas[pos];
+                        string csvRow;
+                        using (var stream = File.AppendText(file))
+                        {
+                            Console.Write(i + ": " + pos+": ");
+                            Console.WriteLine(cuenta[3].IndexOf("@"));
+                            string correo = cuenta[3].Substring(0,cuenta[3].LastIndexOf("@")).Replace(" ","")+"@"+dominios[posDom];
+                            csvRow = string.Format("{0},{1},{2},{3},{4},{5},{6},{7}", pos, cuenta[0], cuenta[1], cuenta[2], correo, cuenta[4], cuenta[5], dominios[posDom]);
+                            stream.WriteLine(csvRow);
+                            stream.Close();
+                        }
+                    }
+                    for (int i = 0; i < 10; i++)
+                    {
+                        Console.WriteLine(i+": "+totales[i]);
+                    }
+                        return true;
+                }
+                catch (Exception ex)
+                {
+                    lblNotificaciones.Text = string.Format("Hubo un error: {0}", ex.Message);
+                    System.Windows.Forms.MessageBox.Show(string.Format("Hubo un error: {0}", ex.Message));
+                    return false;
+                }
             }
         }
 
@@ -78,7 +151,7 @@ namespace LogCuentasCSV
                     {
                         filaCSV++;
                         if (conn.faltantes[filaCSV])
-                        { 
+                        {
                             int status = conn.nuevaCuenta(filaCSV, cuenta[0], cuenta[1]);
                             if (status != 1)
                             {

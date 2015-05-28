@@ -6,3 +6,6 @@ C:\Users\Oscar\Documents\Visual Studio 2013\Projects\RobotCuentasOffice\MonitorM
 C:\Users\Oscar\Documents\Visual Studio 2013\Projects\RobotCuentasOffice\MonitorMaquinasVirtuales\obj\Debug\MonitorMaquinasVirtuales.csproj.GenerateResource.Cache
 C:\Users\Oscar\Documents\Visual Studio 2013\Projects\RobotCuentasOffice\MonitorMaquinasVirtuales\obj\Debug\MonitorMaquinasVirtuales.exe
 C:\Users\Oscar\Documents\Visual Studio 2013\Projects\RobotCuentasOffice\MonitorMaquinasVirtuales\obj\Debug\MonitorMaquinasVirtuales.pdb
+C:\Users\Bot\Documents\Visual Studio 2013\Projects\RobotCuentasOffice\MonitorMaquinasVirtuales\bin\Debug\MonitorMaquinasVirtuales.exe.config
+C:\Users\Bot\Documents\Visual Studio 2013\Projects\RobotCuentasOffice\MonitorMaquinasVirtuales\obj\Debug\MonitorMaquinasVirtuales.exe
+C:\Users\Bot\Documents\Visual Studio 2013\Projects\RobotCuentasOffice\MonitorMaquinasVirtuales\obj\Debug\MonitorMaquinasVirtuales.pdb

@@ -20,3 +20,17 @@ C:\Users\Oscar\documents\visual studio 2013\Projects\RobotCuentasOffice\LogCuent
 C:\Users\Oscar\documents\visual studio 2013\Projects\RobotCuentasOffice\LogCuentasCSV\bin\Debug\EntityFramework.SqlServer.xml
 C:\Users\Oscar\Documents\Visual Studio 2013\Projects\RobotCuentasOffice\LogCuentasCSV\bin\Debug\MySql.Data.dll
 C:\Users\Oscar\Documents\Visual Studio 2013\Projects\RobotCuentasOffice\LogCuentasCSV\obj\Debug\LogCuentasCSV.Form1.resources
+C:\Users\Bot\Documents\Visual Studio 2013\Projects\RobotCuentasOffice\LogCuentasCSV\bin\Debug\LogCuentasCSV.exe.config
+C:\Users\Bot\Documents\Visual Studio 2013\Projects\RobotCuentasOffice\LogCuentasCSV\obj\Debug\LogCuentasCSV.exe
+C:\Users\Bot\Documents\Visual Studio 2013\Projects\RobotCuentasOffice\LogCuentasCSV\obj\Debug\LogCuentasCSV.pdb
+C:\Users\Bot\Documents\Visual Studio 2013\Projects\RobotCuentasOffice\LogCuentasCSV\bin\Debug\LogCuentasCSV.exe
+C:\Users\Bot\Documents\Visual Studio 2013\Projects\RobotCuentasOffice\LogCuentasCSV\bin\Debug\LogCuentasCSV.pdb
+C:\Users\Bot\Documents\Visual Studio 2013\Projects\RobotCuentasOffice\LogCuentasCSV\bin\Debug\EntityFramework.dll
+C:\Users\Bot\Documents\Visual Studio 2013\Projects\RobotCuentasOffice\LogCuentasCSV\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Bot\Documents\Visual Studio 2013\Projects\RobotCuentasOffice\LogCuentasCSV\bin\Debug\MySql.Data.dll
+C:\Users\Bot\Documents\Visual Studio 2013\Projects\RobotCuentasOffice\LogCuentasCSV\bin\Debug\EntityFramework.xml
+C:\Users\Bot\Documents\Visual Studio 2013\Projects\RobotCuentasOffice\LogCuentasCSV\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Bot\Documents\Visual Studio 2013\Projects\RobotCuentasOffice\LogCuentasCSV\obj\Debug\LogCuentasCSV.csprojResolveAssemblyReference.cache
+C:\Users\Bot\Documents\Visual Studio 2013\Projects\RobotCuentasOffice\LogCuentasCSV\obj\Debug\LogCuentasCSV.Form1.resources
+C:\Users\Bot\Documents\Visual Studio 2013\Projects\RobotCuentasOffice\LogCuentasCSV\obj\Debug\LogCuentasCSV.Properties.Resources.resources
+C:\Users\Bot\Documents\Visual Studio 2013\Projects\RobotCuentasOffice\LogCuentasCSV\obj\Debug\LogCuentasCSV.csproj.GenerateResource.Cache
